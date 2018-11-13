@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Nice</title>
+	<title>12 Box</title>
 	<meta charset="utf-8">
 	 <meta name="viewport" content="width=device-width, initial-scale=1">
 	 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -13,7 +13,7 @@
 	<div class="row">
 		<div class="col-sm-12">
 			<div class="well">
-				<center><h1 style="color: white;">Title</h1></center>
+				<center><img src="images/logo.png" class="img-rounded"></center>
 			</div>
 		</div>
 	</div>
@@ -31,16 +31,18 @@
 			<button id="signup" class="btn btn-info btn-lg" name="signup">Sign up</button><br><br>
 			<?php
 				if(isset($_POST['signup'])){
-					echo"<script>window.open('signup.php','_self;')</script>";
+					echo "<script>window.open('signup.php','_self;')</script>";
 				}
 				?>
 
 			<button id="login" class="btn btn-info btn-lg" name="login">Login</button><br><br>
 			<?php
 				if(isset($_POST['login'])){
-					echo"<script>window.open('signin.php','_self;')</script>";
+					echo "<script>window.open('signin.php','_self;')</script>";
 				}
-				?>			
+				?>
+
+
 
 	</div>
 </body>
