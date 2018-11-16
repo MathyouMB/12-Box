@@ -36,12 +36,250 @@ if(isset($_GET['user_name'])){
 	<div class="row">
 		<div class="col-sm-12">
 			<div class="well">
-				<?php echo $name; ?>
-				<center><img src="images/logo.png" class="img-rounded"></center>
+				<center><img src="images/logo.png"></center>
 			</div>
 		</div>
 	</div>
+
+
+
+	<div class="outer-container home-page">
+	    <div class="container-fluid">
+	        <div class="row">
+	            <div class="col-12 col-md-6 col-lg-3 no-padding">
+	                <div class="portfolio-content">
+	                    <figure>
+	                         <img src="https://i.imgur.com/vKIDDJo.png.jpg" alt="">
+	                    </figure>
+
+	                    <div class="entry-content flex flex-column align-items-center justify-content-center">
+	                       yees
+	                        </h3>
+
+	                        <ul class="flex flex-wrap justify-content-center">
+	                            <li>
+	                              yee
+	                            </li>
+	                        </ul>
+	                    </div><!-- .entry-content -->
+	                </div><!-- .portfolio-content -->
+	            </div><!-- .col -->
+
+	            <div class="col-12 col-md-6 col-lg-3 no-padding">
+	                <div class="portfolio-content">
+	                     <figure>
+	                         <img src="https://i.imgur.com/vKIDDJo.png.jpg" alt="">
+	                    </figure>
+
+	                    <div class="entry-content flex flex-column align-items-center justify-content-center">
+	                       yees
+	                        </h3>
+
+	                        <ul class="flex flex-wrap justify-content-center">
+	                            <li>
+	                              yee
+	                            </li>
+	                        </ul>
+	                    </div><!-- .entry-content -->
+	                </div><!-- .portfolio-content -->
+	            </div><!-- .col -->
+
+	            <div class="col-12 col-md-6 col-lg-3 no-padding">
+	                <div class="portfolio-content">
+	                     <figure>
+	                         <img src="https://i.imgur.com/vKIDDJo.png.jpg" alt="">
+	                    </figure>
+
+	                    <div class="entry-content flex flex-column align-items-center justify-content-center">
+	                       yees
+	                        </h3>
+
+	                        <ul class="flex flex-wrap justify-content-center">
+	                            <li>
+	                              yee
+	                            </li>
+	                        </ul>
+	                    </div><!-- .entry-content -->
+	                </div><!-- .portfolio-content -->
+	            </div><!-- .col -->
+
+	            <div class="col-12 col-md-6 col-lg-3 no-padding">
+	                <div class="portfolio-content">
+	                     <figure>
+	                         <img src="https://i.imgur.com/vKIDDJo.png.jpg" alt="">
+	                    </figure>
+
+	                    <div class="entry-content flex flex-column align-items-center justify-content-center">
+	                       yees
+	                        </h3>
+
+	                        <ul class="flex flex-wrap justify-content-center">
+	                            <li>
+	                              yee
+	                            </li>
+	                        </ul>
+	                    </div><!-- .entry-content -->
+	                </div><!-- .portfolio-content -->
+	            </div><!-- .col -->
+
+	            <div class="col-12 col-md-6 col-lg-3 no-padding">
+	                <div class="portfolio-content">
+	                     <figure>
+	                         <img src="https://i.imgur.com/vKIDDJo.png.jpg" alt="">
+	                    </figure>
+
+	                    <div class="entry-content flex flex-column align-items-center justify-content-center">
+	                       yees
+	                        </h3>
+
+	                        <ul class="flex flex-wrap justify-content-center">
+	                            <li>
+	                              yee
+	                            </li>
+	                        </ul>
+	                    </div><!-- .entry-content -->
+	                </div><!-- .portfolio-content -->
+	            </div><!-- .col -->
+
+	            <div class="col-12 col-md-6 col-lg-3 no-padding">
+	                <div class="portfolio-content">
+	                     <figure>
+	                         <img src="https://i.imgur.com/vKIDDJo.png.jpg" alt="">
+	                    </figure>
+
+	                    <div class="entry-content flex flex-column align-items-center justify-content-center">
+	                       yees
+	                        </h3>
+
+	                        <ul class="flex flex-wrap justify-content-center">
+	                            <li>
+	                              yee
+	                            </li>
+	                        </ul>
+	                    </div><!-- .entry-content -->
+	                </div><!-- .portfolio-content -->
+	            </div><!-- .col -->
+
+	            <div class="col-12 col-md-6 col-lg-3 no-padding">
+	                <div class="portfolio-content">
+	                     <figure>
+	                         <img src="https://i.imgur.com/vKIDDJo.png.jpg" alt="">
+	                    </figure>
+
+	                    <div class="entry-content flex flex-column align-items-center justify-content-center">
+	                       yees
+	                        </h3>
+
+	                        <ul class="flex flex-wrap justify-content-center">
+	                            <li>
+	                              yee
+	                            </li>
+	                        </ul>
+	                    </div><!-- .entry-content -->
+	                </div><!-- .portfolio-content -->
+	            </div><!-- .col -->
+
+	            <div class="col-12 col-md-6 col-lg-3 no-padding">
+	                <div class="portfolio-content">
+	                     <figure>
+	                         <img src="https://i.imgur.com/vKIDDJo.png.jpg" alt="">
+	                    </figure>
+
+	                    <div class="entry-content flex flex-column align-items-center justify-content-center">
+	                       yees
+	                        </h3>
+
+	                        <ul class="flex flex-wrap justify-content-center">
+	                            <li>
+	                              yee
+	                            </li>
+	                        </ul>
+	                    </div><!-- .entry-content -->
+	                </div><!-- .portfolio-content -->
+	            </div><!-- .col -->
+
+	            <div class="col-12 col-md-6 col-lg-3 no-padding">
+	                <div class="portfolio-content">
+	                     <figure>
+	                         <img src="https://i.imgur.com/vKIDDJo.png.jpg" alt="">
+	                    </figure>
+
+	                    <div class="entry-content flex flex-column align-items-center justify-content-center">
+	                       yees
+	                        </h3>
+
+	                        <ul class="flex flex-wrap justify-content-center">
+	                            <li>
+	                              yee
+	                            </li>
+	                        </ul>
+	                    </div><!-- .entry-content -->
+	                </div><!-- .portfolio-content -->
+	            </div><!-- .col -->
+
+	            <div class="col-12 col-md-6 col-lg-3 no-padding">
+	                <div class="portfolio-content">
+	                     <figure>
+	                         <img src="https://i.imgur.com/vKIDDJo.png.jpg" alt="">
+	                    </figure>
+
+	                    <div class="entry-content flex flex-column align-items-center justify-content-center">
+	                       yees
+	                        </h3>
+
+	                        <ul class="flex flex-wrap justify-content-center">
+	                            <li>
+	                              yee
+	                            </li>
+	                        </ul>
+	                    </div><!-- .entry-content -->
+	                </div><!-- .portfolio-content -->
+	            </div><!-- .col -->
+
+	            <div class="col-12 col-md-6 col-lg-3 no-padding">
+	                <div class="portfolio-content">
+	                     <figure>
+	                         <img src="https://i.imgur.com/vKIDDJo.png.jpg" alt="">
+	                    </figure>
+
+	                    <div class="entry-content flex flex-column align-items-center justify-content-center">
+	                       yees
+	                        </h3>
+
+	                        <ul class="flex flex-wrap justify-content-center">
+	                            <li>
+	                              yee
+	                            </li>
+	                        </ul>
+	                    </div><!-- .entry-content -->
+	                </div><!-- .portfolio-content -->
+	            </div><!-- .col -->
+
+	            <div class="col-12 col-md-6 col-lg-3 no-padding">
+	                <div class="portfolio-content">
+	                     <figure>
+	                         <img src="https://i.imgur.com/vKIDDJo.png.jpg" alt="">
+	                    </figure>
+
+	                    <div class="entry-content flex flex-column align-items-center justify-content-center">
+	                       yees
+	                        </h3>
+
+	                        <ul class="flex flex-wrap justify-content-center">
+	                            <li>
+	                              yee
+	                            </li>
+	                        </ul>
+	                    </div><!-- .entry-content -->
+	                </div><!-- .portfolio-content -->
+	            </div><!-- .col -->
+	        </div><!-- .row -->
+	    </div><!-- .container-fluid -->
+	</div><!-- .outer-container -->
 </body>
+
+<script type='text/javascript' src='js/jquery.js'></script>
+<script type='text/javascript' src='js/custom.js'></script>
 </html>
 
 

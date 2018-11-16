@@ -57,10 +57,10 @@
 				<h1 style="text-align: center;"><span class="glyphicon glyphicon-search"></span><strong> Search</strong></h1><hr>
 			</div>
 			<div class="1-part">
-				<form action="profile.php" method="GET">
+				<form action="Photowall-MySQL/profile.php" method="GET">
 						<input type="text" placeholder="Username" id="user_name" name="user_name" class="form-control input-md">
 				</form>	
-<hr>
+				<hr>
 				<form action="" method="post">
 					<center><button id="signup" class="btn btn-info btn-lg" name="signup">Sign up</button></center><br>
 					<center><button id="login" class="btn btn-info btn-lg" name="login">Login</button></center>
