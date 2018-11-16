@@ -49,8 +49,26 @@
 	<div class="row">
 		<div class="col-sm-12">
 			<div class="well">
-				<center><img src="images/logo.png" class="img-rounded"></center>
+				<div>
+				<div align="center">
+				<!--<center>-->
+					
+				<!--</center>-->
+				<div align="center">
+					<center>
+					<form action="profile.php" method="GET">
+						<table>
+							<tr><td><img src="images/logo.png" class="img-rounded"></td></tr>
+							<tr>
+								<td><input type="text" id="user_name" name="user_name"></td></tr>
+							<tr><td><input type="submit" name="submit" value="View Profile!"></td></tr>
+						</table>
+					</form>
+					</center>	
+				</div>
 			</div>
+			</div>
+
 		</div>
 	</div>
 	<div class="row">
@@ -60,7 +78,7 @@
 			</div>
 			<div class="1-part">
 				<form action="" method="post">
-					<input type="email" placeholder="Email" name ="email" required="required" class="form-control input-md"><br>
+					<input type="email" placeholder="Email" name ="email" class="form-control input-md"><br>
 					<div class="overlap-text">
 						<input type="password" name="pass" placeholder="Password" required="required" class="form-control input-md"><br>
 						<a style="text-decoration:none;float: right;color: #187FAB;" data-toggle="tooltip" title="Reset Password" href="forgot_password.php">Forgot?</a>

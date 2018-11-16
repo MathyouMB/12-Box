@@ -17,7 +17,7 @@ include("includes/connection.php");
 		if($check_user == 1){
 			$_SESSION['user_email'] = $email;
 
-			echo "<script>window.open('home.php', '_self')</script>";
+			echo "<script>window.open('profile.php', '_self')</script>";
 		}else{
 			echo"<script>alert('Your Email or Password is incorrect')</script>";
 		}
