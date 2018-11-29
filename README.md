@@ -4,15 +4,10 @@
 
 Progress:
 
-   - [x] Profile System
-   - [x] Signup, Signin System
+   - [x] Profile and profile search system
+   - [x] Signup, Signin system
    - [ ] User upload system
+   - [ ] Follow users system
 
 <img src="https://i.imgur.com/POyXubT.png">
 <img src="https://i.imgur.com/xoG3dOb.png">
-
-
-
-
-
-
