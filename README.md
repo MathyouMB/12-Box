@@ -5,7 +5,7 @@
 Progress:
 
    - [x] Profile and profile search system
-   - [x] Signup, Signin system
+   - [x] Signup, signin system
    - [ ] User upload system
    - [ ] Follow users system
 
