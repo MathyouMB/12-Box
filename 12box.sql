@@ -52,8 +52,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`user_id`, `user_name`, `user_email`, `user_pass`, `user_p1`, `user_p2`, `user_p3`, `user_p4`, `user_p5`, `user_p6`, `user_p7`, `user_p8`, `user_p9`, `user_p10`, `user_p11`, `user_p12`) VALUES
-(1, 'Matt', 'meme@gmail.com', '1234567890', 'https://i.imgur.com/Lu2eXrG.jpg', 'https://i.imgur.com/Lu2eXrG.jpg', 'https://i.imgur.com/Lu2eXrG.jpg', '', '', '', '', '', '', '', '', ''),
-(2, 'Matt69', 'meme69@gmail.com', '0-0-0-3Mb', 'https://i.imgur.com/Lu2eXrG.jpg', 'https://i.imgur.com/fgPf7o5.png', 'https://i.imgur.com/CsfwQcd.png', '', '', '', '', '', '', '', '', '');
+(1, 'Matt', 'email@gmail.com', '1234567890', 'https://i.imgur.com/Lu2eXrG.jpg', 'https://i.imgur.com/Lu2eXrG.jpg', 'https://i.imgur.com/Lu2eXrG.jpg', '', '', '', '', '', '', '', '', ''),
+(2, 'Matt2', 'email2@gmail.com', '1234567890', 'https://i.imgur.com/Lu2eXrG.jpg', 'https://i.imgur.com/fgPf7o5.png', 'https://i.imgur.com/CsfwQcd.png', '', '', '', '', '', '', '', '', '');
 
 --
 -- Indexes for dumped tables
